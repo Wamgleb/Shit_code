@@ -1,0 +1,9 @@
+C:\Users\Gleb\source\repos\FizzBozz\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+C:\Users\Gleb\source\repos\FizzBozz\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\Gleb\source\repos\FizzBozz\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\Gleb\source\repos\FizzBozz\MyLib\obj\Debug\netcoreapp3.1\MyLib.csprojAssemblyReference.cache
+C:\Users\Gleb\source\repos\FizzBozz\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+C:\Users\Gleb\source\repos\FizzBozz\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+C:\Users\Gleb\source\repos\FizzBozz\MyLib\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\FizzBozz\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\Gleb\source\repos\FizzBozz\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb

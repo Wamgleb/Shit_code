@@ -1,0 +1,16 @@
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\bin\Debug\netcoreapp3.1\FizzBozz.exe
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\bin\Debug\netcoreapp3.1\FizzBozz.deps.json
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\bin\Debug\netcoreapp3.1\FizzBozz.runtimeconfig.json
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\bin\Debug\netcoreapp3.1\FizzBozz.runtimeconfig.dev.json
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\bin\Debug\netcoreapp3.1\FizzBozz.dll
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\bin\Debug\netcoreapp3.1\FizzBozz.pdb
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\obj\Debug\netcoreapp3.1\FizzBozz.csprojAssemblyReference.cache
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\obj\Debug\netcoreapp3.1\FizzBozz.AssemblyInfoInputs.cache
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\obj\Debug\netcoreapp3.1\FizzBozz.AssemblyInfo.cs
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\obj\Debug\netcoreapp3.1\FizzBozz.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\obj\Debug\netcoreapp3.1\FizzBozz.dll
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\obj\Debug\netcoreapp3.1\FizzBozz.pdb
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\obj\Debug\netcoreapp3.1\FizzBozz.genruntimeconfig.cache
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\Gleb\source\repos\FizzBozz\FizzBozz\obj\Debug\netcoreapp3.1\FizzBozz.csproj.CopyComplete
